@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|c:\\users\\nihad\\onedrive\\desktop\\weekendtask\\weekendtask\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|solutionrelative:weekendtask\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|c:\\users\\nihad\\onedrive\\desktop\\weekendtask\\weekendtask\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|solutionrelative:weekendtask\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|c:\\users\\nihad\\onedrive\\desktop\\weekendtask\\weekendtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|solutionrelative:weekendtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|c:\\users\\nihad\\onedrive\\desktop\\weekendtask\\weekendtask\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|solutionrelative:weekendtask\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|c:\\users\\nihad\\onedrive\\desktop\\weekendtask\\weekendtask\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|solutionrelative:weekendtask\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|c:\\users\\nihad\\onedrive\\desktop\\weekendtask\\weekendtask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C29930-7555-4119-99C1-3019BE8D6889}|WeekEndTask\\WeekEndTask.csproj|solutionrelative:weekendtask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\MenuService.cs",
+              "RelativeDocumentMoniker": "WeekEndTask\\MenuService.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\MenuService.cs",
+              "RelativeToolTip": "WeekEndTask\\MenuService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAGAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:23:39.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\AccountService.cs",
+              "RelativeDocumentMoniker": "WeekEndTask\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\AccountService.cs",
+              "RelativeToolTip": "WeekEndTask\\AccountService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:10:46.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankService.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\BankService.cs",
+              "RelativeDocumentMoniker": "WeekEndTask\\BankService.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\BankService.cs",
+              "RelativeToolTip": "WeekEndTask\\BankService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:01:13.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\User.cs",
+              "RelativeDocumentMoniker": "WeekEndTask\\User.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\User.cs",
+              "RelativeToolTip": "WeekEndTask\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:57:36.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\Bank.cs",
+              "RelativeDocumentMoniker": "WeekEndTask\\Bank.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\Bank.cs",
+              "RelativeToolTip": "WeekEndTask\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:56:55.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\Program.cs",
+              "RelativeDocumentMoniker": "WeekEndTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\WeekEndTask\\WeekEndTask\\Program.cs",
+              "RelativeToolTip": "WeekEndTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:56:29.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

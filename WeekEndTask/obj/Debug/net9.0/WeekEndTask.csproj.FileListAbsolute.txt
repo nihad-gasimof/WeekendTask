@@ -1,0 +1,15 @@
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\obj\Debug\net9.0\WeekEndTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\obj\Debug\net9.0\WeekEndTask.AssemblyInfoInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\obj\Debug\net9.0\WeekEndTask.AssemblyInfo.cs
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\obj\Debug\net9.0\WeekEndTask.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\obj\Debug\net9.0\WeekEndTask.sourcelink.json
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\bin\Debug\net9.0\WeekEndTask.exe
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\bin\Debug\net9.0\WeekEndTask.deps.json
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\bin\Debug\net9.0\WeekEndTask.runtimeconfig.json
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\bin\Debug\net9.0\WeekEndTask.dll
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\bin\Debug\net9.0\WeekEndTask.pdb
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\obj\Debug\net9.0\WeekEndTask.dll
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\obj\Debug\net9.0\refint\WeekEndTask.dll
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\obj\Debug\net9.0\WeekEndTask.pdb
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\obj\Debug\net9.0\WeekEndTask.genruntimeconfig.cache
+C:\Users\Nihad\OneDrive\Desktop\WeekEndTask\WeekEndTask\obj\Debug\net9.0\ref\WeekEndTask.dll
